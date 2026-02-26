@@ -15,11 +15,11 @@ acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 # --- MOTOR ---
-#EXTINF:-1 group-title="Motor", DAZN F1 Aleman
+#EXTINF:-1 group-title="Motor", DAZN F1 (Opción 1)
 acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 group-title="Motor", DAZN F1 ESP (Opción 1)
+#EXTINF:-1 group-title="Motor", DAZN F1 (Opción 2)
 acestream://f696f5a5f67fa9ee46f20b84b25dc57a6eb40934
-#EXTINF:-1 group-title="Motor", DAZN F1 ESP (Opción 2)
+#EXTINF:-1 group-title="Motor", DAZN F1 (Opción 3)
 acestream://2758678e899ccf67ca134a6443cac017bf815dd9
 #EXTINF:-1 group-title="Motor", DAZN F1 (Opción 4)
 acestream://d65257bb934b73647374224fd62d836815804be2
